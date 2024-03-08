@@ -1,0 +1,40 @@
+.article{
+    margin: 2em 10em;
+    padding:2em;
+    border-top:solid 5px #8B968D;
+    border-bottom:solid 5px #8B968D;
+    border-right:solid 5px #8B968D;
+    border-left:solid 5px #8B968D;
+
+    background-color:#fafafa;/*背景色*/
+}
+
+.h2{
+    text-align: center;
+}
+
+
+.form{
+    max-width:420px; margin:50px auto;
+}
+
+.feedbackinput{
+    color: black;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight:500;
+    font-size: 18px;
+    border-radius: 5px;
+    line-height: 22px;
+    background-color: transparent;
+    border:2px solid #CC6666;
+    transition: all 0.3s;
+    padding: 13px;
+    margin-bottom: 15px;
+    width:100%;
+    box-sizing: border-box;
+    outline:0;
+}
+
+.feed{
+    text-align: center;
+}
